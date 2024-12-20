@@ -46,7 +46,7 @@ social:
 
   - icon: graduation-cap
     icon_pack: fas
-    link: [https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr](https://scholar.google.com/citations?hl=en&user=pOBqD5MAAAAJ)
+    link: https://scholar.google.com/citations?hl=en&user=pOBqD5MAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/simongravelle
@@ -54,7 +54,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: [files/resume/resume-simon-gravelle.pdf](https://www.isical.ac.in/~aditya_r/data/Aditya_Panda_Resume.pdf)
+    link: https://www.isical.ac.in/~aditya_r/data/Aditya_Panda_Resume.pdf
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
