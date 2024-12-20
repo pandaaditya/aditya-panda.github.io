@@ -45,7 +45,7 @@ social:
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
 **About me**
-I am currently a PhD candidate at Indian Statistical Institute (ISI) in Kolkata. Earlier I completed my Master's degree in Computer Science from ISI Kolkata. I obtained my B.E degree in Electronics and Tele-communication Engineering from Jadavpur University. My current research includes compositional generalization, zero-shot learning computer vision.
+I am currently a PhD candidate at Indian Statistical Institute (ISI) in Kolkata. Earlier I completed my Master's degree in Computer Science from ISI Kolkata. I obtained my B.E degree in Electronics and Tele-communication Engineering from Jadavpur University. My current research includes compositional generalization, zero-shot learning and computer vision.
 
 
 
