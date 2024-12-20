@@ -4,7 +4,7 @@ title: Aditya Panda
 
 # Full name (for SEO)
 first_name: Aditya
-last_name: panda
+last_name: Panda
 
 # Status emoji
 status:
