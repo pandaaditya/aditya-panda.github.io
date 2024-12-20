@@ -18,7 +18,7 @@ role: Doctoral Researcher, Indian Statistical Institute, Kolkata
 
 
 
-<# Short bio (displayed in user profile at end of posts)>
+//<# Short bio (displayed in user profile at end of posts)>
 <bio: I am currently a PhD candidate at Indian Statistical Institute in Kolkata, where I mainly work on data efficient deep learning approaches.>
 
 
