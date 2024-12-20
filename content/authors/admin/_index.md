@@ -16,10 +16,7 @@ superuser: true
 # Role/position/tagline
 role: Doctoral Researcher, Indian Statistical Institute, Kolkata
 
-<# Organizations/Affiliations to show in About widget>
-<organizations:>
-<  - name: LiPhy, UGA, CNRS>
-<    url: https://liphy.univ-grenoble-alpes.fr/>
+
 
 <# Short bio (displayed in user profile at end of posts)>
 <bio: I am currently a PhD candidate at Indian Statistical Institute in Kolkata, where I mainly work on data efficient deep learning approaches.>
