@@ -14,22 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Researcher, Indian Statistical Institute, Kolkata
-
-
-
-//<# Short bio (displayed in user profile at end of posts)>
-<bio: I am currently a PhD candidate at Indian Statistical Institute in Kolkata, where I mainly work on data efficient deep learning approaches.>
+role: PhD candidate, Indian Statistical Institute, Kolkata
 
 
 
 
-<# Education to show in About widget>
-<education:>
-<  courses:>
-  <  - course: PhD in Nanofluidics>
-      <institution: University of Lyon (France)>
-      <year: 2015>
+
+
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
