@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Aditya Panda
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Aditya
+last_name: panda
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist, MSCA Fellow
+role: Doctoral Researcher, Indian Statistical Institute, Kolkata
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,13 +22,10 @@ organizations:
     url: https://liphy.univ-grenoble-alpes.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy (UGA/CNRS) in Grenoble, France.
+<> bio: I am currently a PhD candidate at Indian Statistical Institute in Kolkata, where I mainly work on data efficient deep learning approaches.
 
-# Interests to show in About widget
-interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+
+
 
 # Education to show in About widget
 education:
@@ -45,14 +42,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@live.fr
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GravelleSimon
-    label: Follow me on Twitter
+    link: mailto:aditya_r@isical.ac.in
+
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+    link: [https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr](https://scholar.google.com/citations?hl=en&user=pOBqD5MAAAAJ)
   - icon: github
     icon_pack: fab
     link: https://github.com/simongravelle
@@ -60,7 +54,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: files/resume/resume-simon-gravelle.pdf
+    link: [files/resume/resume-simon-gravelle.pdf](https://www.isical.ac.in/~aditya_r/data/Aditya_Panda_Resume.pdf)
 
 highlight_name: true # Highlight the author in author lists? (true/false)
 ---
@@ -70,20 +64,4 @@ I am a [CNRS](https://www.cnrs.fr/) researcher at
 [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble, France. I use
 molecular simulations to study fluids at interfaces and soft matter systems.
 
-**Open Source and Outreach Activities**
 
-I share all the code developed as part of my research as open source. You can
-find it in my [GitHub](https://github.com/simongravelle/) repository. 
-Additionally, see the following resources:
-
-- [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit 
-  for analyzing confined molecular simulations
-- [LAMMPS Tutorials](https://lammpstutorials.github.io), tutorials for 
-  beginners using LAMMPS
-- [GROMACS Tutorials](https://gromacstutorials.github.io), tutorials for 
-  beginners using GROMACS
-- [MDCourse](https://mdcourse.github.io), a Python course 
-  on molecular simulations
-- [Gallery of Animations](https://www.youtube.com/@SimonGravelle) and 
-  [Molecular Art](https://simongravelle.github.io/gallery/), high-resolution 
-  renderings of molecules
